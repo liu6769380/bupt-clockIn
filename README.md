@@ -150,7 +150,6 @@
    }
    ```
 
-##### ~~WxPusher~~
 
 1. ~~根据 [WxPusher](https://wxpusher.zjiecode.com/docs/#/)的文档首先注册并且创建应用，注册时会提示`appToken`，记录到`config.json`的`appToken`字段中~~
 
